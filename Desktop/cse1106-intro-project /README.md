@@ -1,11 +1,11 @@
-# Project Title 
+# Project Title: LAB 2 GIT HUB
 
-## Description
+## Description: How to push to git hub
 
-## Technologies 
+## Technologies: Laptop of your choosing 
 
-## How to Run 
+## How to Run: using terminal
 
-## What I Learned
+## What I Learned: How to create a git hub account and push/commit a file to a repository 
 
-## Future Improvements
+## Future Improvements: commit the command lines to memory 
